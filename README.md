@@ -1,5 +1,5 @@
 # Azure MLOps
-MLOps example implementations of CI/CD pipelines in Azure inspired by [thislearning path](https://docs.microsoft.com/en-us/learn/paths/build-first-machine-operations-workflow/) from Microsoft.
+MLOps example implementations of CI/CD pipelines in Azure inspired by [this learning path](https://docs.microsoft.com/en-us/learn/paths/build-first-machine-operations-workflow/) from Microsoft.
 
 # Description
 🏗 Currently under construction...
