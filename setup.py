@@ -6,5 +6,5 @@ setup(
     version="0.0.1",
     description="MLOps example implementations of CI/CD pipelines in Azure inspired by MLOps learning path from Microsoft.",
     author="Ruan Pretorius",
-    license=""
+    license="",
 )
