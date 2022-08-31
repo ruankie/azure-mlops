@@ -4,8 +4,6 @@ import logging
 import random
 import pandas as pd
 
-logging.basicConfig(level=logging.INFO)
-
 
 class DummyClassifier:
     """Dummy model class with access to fit and predict methods that does nothing.
